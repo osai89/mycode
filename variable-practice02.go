@@ -28,7 +28,7 @@ func main() {
     var c = true
     var d = 2.3
     
-    //var a = "Goodbye"
+   // var a = "Goodbye"
     a = "Goodbye"
 
     fmt.Printf("The type of a, b, c, d is: %T, %T, %T and %T respectively\n", a, b, c, d)
